@@ -4,7 +4,6 @@ warning('off');
 %% Parameter.
 %   index     : The dataset to be used, when index=1, use ConcreteCrackImages dataset
 %               when index=2, use orlraws10P dataset. 
-
 %   r         : Step factor
 %   maxiteropt: Maximum iteration alloted to the method
 %   trigger   : Whether to enable the indicator array of each method, where
