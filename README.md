@@ -9,7 +9,9 @@ A toy example explains how to use the these function. For "L0GSNTD", before runn
 
 
 ## Data
-This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id), and the rest of the data can be downloaded from the mentioned public website. Additionally, all the datasets used in this paper can be downloaded from url https://zenodo.org/records/14506435. 
+This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id), and the rest of the data can be downloaded from the mentioned public website. 
+
+Additionally, all the datasets used in this paper can be downloaded from url https://zenodo.org/records/14506435. 
 
 ## Reference
 <div id="refer-id"></div>
